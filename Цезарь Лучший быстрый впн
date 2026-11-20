@@ -3,9 +3,9 @@
 #subscription-userinfo: upload=0; download=997767865569678967; total=0; expire=4102444800
 #profile-update-interval: 2
 #announce:Обновления каждый день из за блокировки ии ркн,обходные сервера на починке
-vless://62598096-8cfd-4557-a952-bf729f77fa6c@app.streamru11.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app.streamru11.net&fp=firefox&pbk=N4UEx-wOBPyy2jxONWocg2tOXSyRIVjfYbZaAJT61QE&sid=984505d2&type=tcp&headerType=none#🇵🇱Польша 
-vless://62598096-8cfd-4557-a952-bf729f77fa6c@app.streamru15.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app.streamru15.net&fp=firefox&pbk=bkKOiMl4vnU10lZSEEL0Uj5dqKKNXW8I2t86Fo9sVmw&sid=7594d4e0&type=tcp&headerType=none#🇩🇪Германия 
-vless://62598096-8cfd-4557-a952-bf729f77fa6c@main.jarbook.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=main.jarbook.net&fp=firefox&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&sid=d889ac17&type=tcp&headerType=none#🇳🇱Нидерланды 
+vless://62598096-8cfd-4557-a952-bf729f77fa6c@rsk2.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=rsk2.betust.net&type=tcp&headerType=none#🇵🇱Польша 
+vless://c26b5ab8-2f94-0001-8afe-8c02f2341ad0@188.225.82.103:443?encryption=none&security=tls&sni=nmrhj-ru-wl-82tw.my-fade.cloud&type=tcp&headerType=none#🇩🇪Германия 
+vless://62598096-8cfd-4557-a952-bf729f77fa6c@rsk4.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=rsk4.betust.net&type=tcp&headerType=none#🇳🇱Нидерланды 
 vless://62598096-8cfd-4557-a952-bf729f77fa6c@app.streamru3.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=app.streamru3.net&type=tcp&headerType=none#🇷🇺Россия
 vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cdnjs.com&fp=qq&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&type=tcp&headerType=none#🇺🇸Ютуб
 vless://62598096-8cfd-4557-a952-bf729f77fa6c@app.streamru13.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=app.streamru13.net&type=tcp&headerType=none#🇪🇺Обход глушилок 1
