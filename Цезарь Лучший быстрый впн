@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=997767865569678967; total=0; expire=4102444800
 #profile-update-interval: 2
 #announce:Обновления каждый день из за блокировки ии ркн,обходные сервера на починке
-vless://62598096-8cfd-4557-a952-bf729f77fa6c@rsk2.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=rsk2.betust.net&type=tcp&headerType=none#🇵🇱Польша 
+vless://c8c17d77-cc46-4c81-a2bf-779e75532bdc@95.163.2.47:443?encryption=none&security=tls&sni=zisvpn.tech&type=ws&host=zisvpn.tech&path=%2Fvless-nl&headers=%7B%0A%20%20%22Host%22%3A%20%22zisvpn.tech%22%0A%7D#🇵🇱Польша 
 vless://c26b5ab8-2f94-0001-8afe-8c02f2341ad0@188.225.82.103:443?encryption=none&security=tls&sni=nmrhj-ru-wl-82tw.my-fade.cloud&type=tcp&headerType=none#🇩🇪Германия 
 vless://62598096-8cfd-4557-a952-bf729f77fa6c@rsk4.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=rsk4.betust.net&type=tcp&headerType=none#🇳🇱Нидерланды 
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.245.147:445?encryption=none&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&type=grpc&mode=gun&authority=&serviceName=grpc#🇷🇺Россия 
@@ -11,3 +11,4 @@ vless://ca60984f-b1f0-4073-bd33-4c75168f749a@31.59.148.132:443?flow=xtls-rprx-vi
 vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cdnjs.com&fp=qq&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&type=tcp&headerType=none#🇺🇸Ютуб
 vless://62598096-8cfd-4557-a952-bf729f77fa6c@app.streamru13.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=app.streamru13.net&type=tcp&headerType=none#🇪🇺Обход глушилок 1
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.245.147:445?encryption=none&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&type=grpc&mode=gun&authority=&serviceName=grpc#🇪🇺Обход глушилок 2
+vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.245.147:445?encryption=none&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&type=grpc&mode=gun&authority=&serviceName=grpc#🇪🇺Обход глушилок 3
