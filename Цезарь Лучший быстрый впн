@@ -4,7 +4,7 @@
 #profile-update-interval: 2
 #announce:Обновления каждый день из за блокировки ии ркн,обходные сервера на починке
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.245.147:445?encryption=none&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&type=grpc&mode=gun&authority=&serviceName=grpc#🇪🇺Автоподбор 🚀
-vless://c8c17d77-cc46-4c81-a2bf-779e75532bdc@95.163.2.47:443?encryption=none&security=tls&sni=zisvpn.tech&type=ws&host=zisvpn.tech&path=%2Fvless-nl&headers=%7B%0A%20%20%22Host%22%3A%20%22zisvpn.tech%22%0A%7D#🇵🇱Польша 
+vless://7a8f716f-37ee-4af3-84c3-67e9a1b17d08@31.129.42.97:8443?encryption=none&security=reality&sni=i0.photo.2gis.com&fp=firefox&pbk=WV58fGQd270mAtuAYhep9LXoVKTI0kiF4rCRaXAumWc&sid=16ee3a5f0387c553&type=grpc&mode=gun&authority=&serviceName=grpc#🇵🇱Польша 
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.245.147:445?encryption=none&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&type=grpc&mode=gun&authority=&serviceName=grpc#🇵🇱Польша ²
 vless://c26b5ab8-2f94-0001-8afe-8c02f2341ad0@188.225.82.103:443?encryption=none&security=tls&sni=nmrhj-ru-wl-82tw.my-fade.cloud&type=tcp&headerType=none#🇩🇪Германия 
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@31.177.111.107:443?encryption=none&security=tls&sni=q075gi2cms.schoolbag.top&fp=safari&type=ws&host=q075gi2cms.schoolbag.top&path=%2Fcollector%2Fruntime%2Fchannel%2Fopen&headers=%7B%0A%20%20%22Host%22%3A%20%22q075gi2cms.schoolbag.top%22%0A%7D#🇩🇪Германия²
