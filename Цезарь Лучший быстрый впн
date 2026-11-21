@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=997767865569678967; total=0; expire=4102444800
 #profile-update-interval: 2
 #announce:Обновления каждый день из за блокировки ии ркн,обходные сервера на починке
-vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=144.hexdey.com&fp=firefox&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&sid=d05a120d3506d2cc&type=tcp&headerType=none#🇪🇺Автоподбор 
+vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=144.hexdey.com&fp=firefox&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&sid=d05a120d3506d2cc&type=tcp&headerType=none#🇪🇺Автоподбор
+vless://ea78d53e-8d5a-47f5-b9bc-d23b5a388993@test.rare-glen.test-cdn-kkk.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=/&type=tcp&headerType=none#🇷🇺Авто LTE  
 vless://7a8f716f-37ee-4af3-84c3-67e9a1b17d08@31.129.42.97:8443?encryption=none&security=reality&sni=i0.photo.2gis.com&fp=firefox&pbk=WV58fGQd270mAtuAYhep9LXoVKTI0kiF4rCRaXAumWc&sid=16ee3a5f0387c553&type=grpc&mode=gun&authority=&serviceName=grpc#🇵🇱Польша 
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.245.147:445?encryption=none&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&type=grpc&mode=gun&authority=&serviceName=grpc#🇵🇱Польша ²
 vless://c26b5ab8-2f94-0001-8afe-8c02f2341ad0@188.225.82.103:443?encryption=none&security=tls&sni=nmrhj-ru-wl-82tw.my-fade.cloud&type=tcp&headerType=none#🇩🇪Германия 
