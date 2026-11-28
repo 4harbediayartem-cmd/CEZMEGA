@@ -2,9 +2,9 @@
 #support-url: https://t.me/marusayvpn
 #subscription-userinfo: upload=0; download=997767865; total=0; expire=4102444800
 #profile-update-interval: 2
-#announce:Обновления каждый день из за блокировки ии ркн,обходные сервера на починке
+#announce:Обновления каждый день,сервера починены
 vless://a7810e85-0ce5-41b8-9868-c9435618b85e@selek-msk1.gamma-nodes.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=selek-msk1.gamma-nodes.com&fp=firefox&alpn=h2&type=tcp#🇷🇺Авто 🚀
-vless://a7810e85-0ce5-41b8-9868-c9435618b85e@nl-ded1-2.gamma-kvn.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl-ded1-2.gamma-kvn.com&fp=firefox&alpn=h2&type=tcp#🇳🇱 Нидерланды
+vless://a7810e85-0ce5-41b8-9868-c9435618b85e@nl-ded1-2.gamma-kvn.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl-ded1-2.gamma-kvn.com&fp=firefox&alpn=h2&type=tcp#🇳🇱 Нидерланды (лучший)
 vless://a7810e85-0ce5-41b8-9868-c9435618b85e@hb.sdvgamma.top:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hb.sdvgamma.top&fp=firefox&alpn=h2&type=tcp#🇩🇪Германия 
 vless://a7810e85-0ce5-41b8-9868-c9435618b85e@romania.gamma-kvn.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=romania.gamma-kvn.com&fp=firefox&alpn=h2&type=tcp#🇵🇱Польша 
 vless://a7810e85-0ce5-41b8-9868-c9435618b85e@cz.gamma-kvn.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cz.gamma-kvn.com&fp=firefox&alpn=h2&type=tcp#🇸🇪Швеция 
